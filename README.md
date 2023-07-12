@@ -7,11 +7,10 @@ Acceptance Criteria:
     * It should say if the address is a PO Box
     * It should validate that all fields are required, except Second Address 
 
-It contains all  related unit tests into the folder ./__test__
-The code is into the folder ./pages
-
-Test Suitest: 2 
-Unit Tests created: 34 scenarios
+Unit tests on folder: ./__test__
+Code on folder: ./pages
+Test Suites: 2 
+Unit Tests created: 35 scenarios
 
 command lines for 
 *-Install dependencies from package.json
